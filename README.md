@@ -14,7 +14,7 @@ A simple game that takes the player to a small neighborhood via controlling a ca
 
 ### Installing
 
--   Accessible through GitHub: Link:
+-   Accessible through GitHub: Link: https://iplayelectrick.github.io/CarGame_DH/
 
 ### Executing program
 
@@ -47,7 +47,7 @@ Contributor's names
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under 
 
 
 ## Acknowledgments
